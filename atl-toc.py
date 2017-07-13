@@ -6,7 +6,7 @@ Generate a table-of-contents in markdown from your note, suitable for use with g
 Matt LeBlanc <matt.leblanc@cern.ch>
 
 --input
---figures (WIP)
+--figures
 '''
 
 import glob
